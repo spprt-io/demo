@@ -53,3 +53,5 @@ form:
 ## Secondary Header
 
 Here you can add support information.
+
+How does it look on GitHub? [GitHub Repo](https://github.com/spprt-io/demo/issues)
